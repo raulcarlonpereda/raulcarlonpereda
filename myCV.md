@@ -28,15 +28,23 @@
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+ <details> 
+  <summary><b>📊 Análisis de e-commerce — Excel</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
+  <p align="center">
+    <a href="https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/raulcarlonpereda/raulcarlonpereda/main/Superstore%20_%20Resolved.xlsx" target="_blank">
+      <img src="https://img.shields.io/badge/Ver%20Dashboard-Online-orange?style=for-the-badge">
+    </a>
+    <br/><br/>
+    <a href="https://raw.githubusercontent.com/raulcarlonpereda/raulcarlonpereda/main/Superstore%20_%20Resolved.xlsx" target="_blank">
+      <img src="https://img.shields.io/badge/Descargar-Excel-blue?style=for-the-badge">
+    </a>
+    <br/><br/>
+    <a href="https://github.com/raulcarlonpereda/raulcarlonpereda/blob/main/Superstore%20_%20Resolved.xlsx" target="_blank">
+      <img src="https://img.shields.io/badge/Ver%20Código-GitHub-black?style=for-the-badge">
+    </a>
+  </p>
 </details>
-
 <br/>
 
 </p>
